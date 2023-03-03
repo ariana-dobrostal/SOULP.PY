@@ -14,4 +14,4 @@ This app is created through following steps: <br />
 <br />
 
 ![positive](https://user-images.githubusercontent.com/110941477/222780594-4b78d671-9ed6-4903-bec3-744b377b3991.png)
-Image 2: User interface <br />
+<br /> Image 2: User interface <br />
