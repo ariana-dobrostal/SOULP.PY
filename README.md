@@ -14,9 +14,7 @@ This app is created through following steps: <br />
 5. Using average vectors and their coresponding sentiment labels, train the decision tree <br />
 <br />
 
-<p align="center">
 ![positive](https://user-images.githubusercontent.com/110941477/222780594-4b78d671-9ed6-4903-bec3-744b377b3991.png)
-</p>
 <p align="center">
 Image 2: User interface <br />
 </p>
