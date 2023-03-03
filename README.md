@@ -12,8 +12,9 @@ This app is created through following steps: <br />
 3. Train a Word2Vec model with tokenized tweets <br />
 4. Using tokenized tweets and Word2Vec model, create average vectors for each tweet <br />
 5. Using average vectors and their coresponding sentiment labels, train the decision tree <br />
+<br />
 
-![positive](https://user-images.githubusercontent.com/110941477/222780594-4b78d671-9ed6-4903-bec3-744b377b3991.png)
 <p align="center">
+![positive](https://user-images.githubusercontent.com/110941477/222780594-4b78d671-9ed6-4903-bec3-744b377b3991.png)
 Image 2: User interface <br />
 </p>
