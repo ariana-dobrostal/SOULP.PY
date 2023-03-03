@@ -5,6 +5,7 @@ Sentiment analysis app for classifying text into groups of negative, neutral or 
 <p align="center">
 Image 1: Decision tree diagram of activity <br />
 </p>
+<br />
 
 This app is created through following steps: <br />
 1. Create usable datasets consisting of preprocessed tweets and sentiment labels
